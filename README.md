@@ -20,7 +20,7 @@ This application processes video files and provides comprehensive summaries and 
 1. Clone this repository
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/NeelB28/Video_Summarizer.git
    cd Video_Summarizer
    ```
 
